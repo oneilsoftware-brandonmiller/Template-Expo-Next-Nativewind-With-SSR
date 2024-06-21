@@ -1,7 +1,6 @@
 "use client"
-import { Text, View, Linking } from "react-native";
+import { Text, View } from "react-native";
 
-////////////BROKEN CODE BELOW without use client/////////////////////
 export default function App() {
   return (
     <View  >
