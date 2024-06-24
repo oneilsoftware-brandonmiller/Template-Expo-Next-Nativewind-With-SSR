@@ -8,8 +8,10 @@ const nextConfig = withExpo({
     "react-native",
     "expo",
     // Add more React Native / Expo packages here...
-    "nativewind", "react-native-css-interop"
+    "nativewind",
+     "react-native-css-interop"
   ],
+  
   experimental: {
     forceSwcTransforms: true,
   },
